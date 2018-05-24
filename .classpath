@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Assignment 2/COSC1295_Assignment_2/src"/>
+	<classpathentry kind="lib" path="Assignment 2/COSC1295_Assignment_2/hsqldb.jar"/>
+	<classpathentry kind="output" path="Assignment 2/COSC1295_Assignment_2/bin"/>
+</classpath>

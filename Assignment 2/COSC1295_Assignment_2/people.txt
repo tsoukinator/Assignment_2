@@ -1,0 +1,10 @@
+Alex Smith, “”, “student at RMIT”, M, 21, WA
+Ben Turner, “BenPhoto.jpg”, “manager at Coles”, M, 35, VIC
+Hannah White, “Hannah.png”, “student at PLC”, F, 14, VIC
+Zoe Foster, “”, “Founder of ZFX”, F, 28, VIC
+Mark Turner, “Mark.jpeg”, “”, M, 2, VIC
+Anthony Tsoukas, “Tsoukinator.jpeg”, “”, M, 27, VIC
+Alex Tsoukas, “Aprilfools.jpeg”, “”, F, 23, VIC
+Jenny G, “Jen.jpg”, “”, F, 26, VIC
+Vincent Goh, “Vinnie.jpg”, “”, M, 12, VIC
+Sarah Baker, “Han.jpg”, “”, F, 14, VIC
